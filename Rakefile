@@ -1,6 +1,6 @@
 require 'rubygems'
-require 'lib/tools/import'
-require "lib/tools/configuration"
+require './lib/tools/import.rb'
+require "./lib/tools/configuration.rb"
 require "yaml"
 require 'rexml/document'
 require 'time'
